@@ -1,0 +1,14 @@
+.heading{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+.navigation nav a{
+    text-decoration: none;
+    margin: 50px;
+    color: black;
+}
+.marked{
+    background-color:yellow;
+    border: 1px solid black;
+}

@@ -1,0 +1,14 @@
+.product{
+    display: flex;
+    margin:40px;
+    border-bottom: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    
+}
+.img img{
+    height:200px;
+    width:200px;
+}
+.discription{
+    margin:10px;
+}
